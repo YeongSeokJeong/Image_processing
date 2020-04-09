@@ -8,5 +8,5 @@
 
 - 1주차 : openCV를 활용한 이미지 읽어오기
 - 2주차 : python의 기본 문법
-
 - 3주차 : numpy 사용법
+- 4주차 : numpy + matplotlib 사용법
